@@ -1,0 +1,14 @@
+nombre webhost:finalcursojunio2023
+contraseña:martinpalermo9:)
+
+nombredelabasededatos:  trabajofinal	
+nombredeusuariodelabasededatos :grupomatias
+contraseña: Juanromanriquelme10=D
+
+nombredebasededatos : id20923817_trabajofinal
+usuariodelabasededatos: id20923817_grupomatias
+hostdelabasededatos: localhost
+contraseña : Juanromanriquelme10=D
+
+
+https://finalcursojunio2023.000webhostapp.com/

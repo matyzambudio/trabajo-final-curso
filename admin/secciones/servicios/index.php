@@ -44,7 +44,7 @@ $listaservicio = $resultado->fetch_all(MYSQLI_ASSOC);
 </style>
     <div class="card">
         <div class="card-header bg-dark"> <br>
-            <a name="" id="crearb" class="btn btn-primary d-grid gap-2 col-6 mx-auto" href="crear.php" role="button">Agregar Nuevo Servicio </a>
+            <a class="btn btn-primary d-grid gap-2 col-6 mx-auto" href="crear.php" role="button">Agregar Nuevo </a><br>
             <br><br>
             <div class="table-responsive-sm p-3 mb-2 bg-white text-white">
                 <table class="table">
@@ -68,8 +68,8 @@ $listaservicio = $resultado->fetch_all(MYSQLI_ASSOC);
                                 <td><?php echo $registros['precio']; ?></td>
                                 <td><?php echo $registros['descripcion']; ?></td>
                                 <td>
-                                     <a class="acciones btn btn-success d-grid m-1" href='editar.php?ID=<?php echo $registros['ID']; ?>'>Editar</a>
-                                     <a class="acciones btn btn-danger d-grid m-1" href='eliminar.php?ID=<?php echo $registros['ID']; ?>'>Eliminar</a>
+                                     <a class="acciones btn btn-success d-grid" href='editar.php?ID=<?php echo $registros['ID']; ?>'>Editar</a>
+                                     <a class="acciones btn btn-danger d-grid" href='eliminar.php?ID=<?php echo $registros['ID']; ?>'>Eliminar</a>
                                 </td>
                             </tr>
                         <?php } ?>

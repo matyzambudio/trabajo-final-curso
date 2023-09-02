@@ -1,4 +1,4 @@
-<?php include('../headprincipal.php') ?>
+<?php include('../headprincipal.php');?>
 <style>
     #fondoPoli {
         background-image: url('<?php echo $url ?>imgFondos/FONDO.jpg');
@@ -21,7 +21,7 @@
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut quas deleniti sequi voluptatibus hic dolor tempore dolorem iusto maxime unde laborum ea, itaque eaque ab excepturi? Modi, deleniti odio! Iusto?
                 </p>
                 <br><br>
-                <a href="<?php $url ?>menuprincipal.php" class="btn btn-primary btn-sm m-3">Volver a Inicio </a> <br>
+                <a href="<?php echo $url ?>index.php" class="btn btn-primary btn-sm m-3">Volver a Inicio </a> <br>
             </div>
         </div>
     </div>

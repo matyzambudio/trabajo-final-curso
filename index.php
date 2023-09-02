@@ -40,5 +40,5 @@
 <br><br>
 <?php include('redes.php') ?>
 <div>
-    <?php include('fotter.php') ?>
+<?php include('fotter.php') ?>
 </div>

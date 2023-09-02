@@ -19,7 +19,7 @@
       <div class="col-sm-1">
         <div class="card border border-2 border-success">
           <img src="<?php echo $url ?>imgFondos/peluquero.jpg" class="m-2" id="foto1">
-          <a href="<?php echo $url ?>menuprincipal.php" type="submit" class="btn btn-success m-3 fw-bold ">Ingresar Modo Visitante</a>
+          <a href="<?php echo $url ?>index.php" type="submit" class="btn btn-success m-3 fw-bold ">Ingresar Modo Visitante</a>
         </div>
       </div>
 

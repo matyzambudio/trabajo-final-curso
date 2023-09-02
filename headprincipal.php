@@ -51,7 +51,7 @@ $url = "http://localhost/2023/";
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto m-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active fw-bold fs-5 fst-italic" aria-current="page" href="<?php echo $url ?>menuprincipal.php" id="enlace">Inicio </a>
+            <a class="nav-link active fw-bold fs-5 fst-italic" aria-current="page" href="<?php echo $url ?>index.php" id="enlace">Inicio </a>
           </li>
           <li class="nav-item">
             <a class="nav-link fw-bold fs-5 fst-italic" href="<?php echo $url ?>piedepag/quienessomos.php" id="enlace">Quienes Somos</a>
