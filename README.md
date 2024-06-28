@@ -14,4 +14,4 @@ Este es un proyecto creado con html, css ,php y msql.
 
 ##Instalacion: Este proyecto no necesita instalación. Solo abre la carpeta o haz doble clic en el archivo index.php
 
-##Contratacion: Si quieres contratarme puedes escribirme a matyzam01@gmail.com
+##Contratacion: Si quieres contratarme puedes escribirme a zambudiomatias@gmail.com
